@@ -2,7 +2,7 @@
 <h3 align="center">Data engineering student who has a passion for programming and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimkammoun&label=Profile%20views&color=0e75b6&style=flat" alt="karimkammoun" /> </p>
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **karimkammoun091.com**
