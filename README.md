@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/karim-kammoun-7ab479316/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim kammoun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karimsfax06" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg](https://avatars.githubusercontent.com/u/7596827?v=4)" alt="karimsfax06" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karimsfax06" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/7596827?v=4" alt="karimsfax06" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/karimsfax06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karimsfax06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karimkammoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karimkammoun" height="30" width="40" /></a>
 </p>
