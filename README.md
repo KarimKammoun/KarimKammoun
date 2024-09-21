@@ -11,9 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karim_kammoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim_kammoun" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karim_kammoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karim_kammoun" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karim_kammoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karim_kammoun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karim kammoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karim kammoun" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karimsfax06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karimsfax06" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/karimsfax06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karimsfax06" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karimkammoun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karimkammoun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
